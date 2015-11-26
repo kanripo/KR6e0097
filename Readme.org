@@ -1,21 +1,19 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:10.024886
-#+TITLE: 金師子章雲間類解
-#+PROPERTY: CBETA_ID T45n1880
-#+PROPERTY: ID KR6e0097
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1880
-#+PROPERTY: VOL 45
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0097_T_000-0663a>¶¶¶
+#+TITLE: 金師子章雲間類解 / T
+#+DATE: 2015-11-26 14:17:29.098298
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
-[[file:KR6e0097_001.txt::0663c9][1明緣起]]
-[[file:KR6e0097_001.txt::0663c19][2辨色空]]
-[[file:KR6e0097_001.txt::0664a5][3約三性]]
-[[file:KR6e0097_001.txt::0664a21][4顯無相]]
-[[file:KR6e0097_001.txt::0664a29][5說無生]]
-[[file:KR6e0097_001.txt::0664b13][6論五教]]
-[[file:KR6e0097_001.txt::0665a18][7勒十玄]]
-[[file:KR6e0097_001.txt::0666b6][8括六相]]
-[[file:KR6e0097_001.txt::0666b17][9成菩提]]
-[[file:KR6e0097_001.txt::0666c15][10入涅槃]]
+* 目次
+* [[file:KR6e0097_001.txt::0663c9][1明緣起]]
+* [[file:KR6e0097_001.txt::0663c19][2辨色空]]
+* [[file:KR6e0097_001.txt::0664a5][3約三性]]
+* [[file:KR6e0097_001.txt::0664a21][4顯無相]]
+* [[file:KR6e0097_001.txt::0664a29][5說無生]]
+* [[file:KR6e0097_001.txt::0664b13][6論五教]]
+* [[file:KR6e0097_001.txt::0665a18][7勒十玄]]
+* [[file:KR6e0097_001.txt::0666b6][8括六相]]
+* [[file:KR6e0097_001.txt::0666b17][9成菩提]]
+* [[file:KR6e0097_001.txt::0666c15][10入涅槃]]
+* 卷
+** [[file:KR6e0097_001.txt][金師子章雲間類解 1]]
